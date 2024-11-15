@@ -1,0 +1,116 @@
+.bodycontainer {
+    font: Roboto;
+    flex-direction: column;
+}
+.container1 {
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 40px;
+    background-color: gold;
+
+
+}
+.container2 {
+    justify-content: center;
+    background-color: white;
+ 
+}
+.container3 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    justify-items: center;
+    background-color: gold;
+}
+.container4 {
+    display: flex;
+    padding-bottom: 40px;
+    justify-self: center;
+    padding-top: 40px;
+    gap: 100px;
+    background-color: greenyellow;
+
+}
+.container1a {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+
+}
+
+.list {
+    list-style-type: none;
+}
+.li1 {
+     float: left;
+     padding: 10px;
+}
+.container1b {
+        display: flex;
+        justify-content: center;
+        gap: 40px;
+        
+}
+
+.heromain {
+    
+    font-weight:bold;
+    font-size: larger;
+    }
+.text {
+    font-size: 18px;
+}
+.morreydescriptionimage {
+    justify-content: space-around;
+    margin-bottom: 30px;
+     
+}
+.container2a {
+    text-align: center;
+    font-size: larger;
+
+}
+.container2b {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    
+    
+    
+}
+.container4a {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+
+}
+.c4a1 {
+    font-weight: bolder;
+}
+.container4b {
+       padding-top: 25px;
+       padding-right: 25px;
+}
+.button1 {
+    background-color: blue;
+    border-color: blue;
+}
+.footer1 {
+    background-color:black;
+    justify-items: center;
+    -webkit-text-fill-color: white;
+
+    
+}
+
+.downquote {
+    justify-self: right;
+    font-weight: bold;
+    margin-right: 450px;
+}
+.imagelogo {
+     text-transform: uppercase;
+     font-style: italic;
+     font-weight: bolder;
+     font-size: x-large;
+}
